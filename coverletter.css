@@ -1,0 +1,38 @@
+*{
+  padding: 2px;
+  box-sizing: border-box;
+  background-color: black;
+  color: white
+
+}
+#EJMT{
+  margin: 0;
+  box-sizing: content-box
+  max-height: 45%;
+  max-width: 45%;
+  display: flex;
+  justify-content: center;
+}
+
+hr {
+  background-color: rgb(139, 0, 167);
+  transform: rotate(180deg);
+  transition: 1000ms;
+  border-width: 0px;
+}
+
+h1{
+  padding-left: 18px;
+  color: rgb(3, 21, 34);
+}
+
+#quote{
+  color: rgb(103, 185, 240);
+  display: flex;
+  justify-content: center;
+}
+
+#quote2{
+  display: flex;
+  justify-content: center;
+}
