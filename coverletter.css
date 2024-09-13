@@ -15,7 +15,7 @@
 }
 
 hr {
-  background-color: rgb(139, 0, 167);
+  background-color: rgb(247, 114, 96);
   transform: rotate(180deg);
   transition: 1000ms;
   border-width: 0px;
@@ -23,7 +23,7 @@ hr {
 
 h1{
   padding-left: 18px;
-  color: rgb(3, 21, 34);
+  color: rgb(139, 0, 167);
 }
 
 #quote{
